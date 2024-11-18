@@ -2,6 +2,7 @@
 group : 22A
 names: حبيبه عبدالعال فراج ,سارة السيد ,مريم مسعد 
                                                                  ## outlines : 
+                                                                 
 1. definition of shock
 2. types of shock
 3. medical treatment
@@ -13,4 +14,5 @@ names: حبيبه عبدالعال فراج ,سارة السيد ,مريم مس�
 3. anaphlactic shock
 4. septic shock
 5. neurological shock
+   
 as each type of them has specific symtoms and causes let's talk about them separatly 
