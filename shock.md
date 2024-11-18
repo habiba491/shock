@@ -1,7 +1,8 @@
-                                                              # shock and its types 
+                                                              # -shock and its types- 
 group : 22A
+
 names: حبيبه عبدالعال فراج ,سارة السيد ,مريم مسعد 
-                                                                 ## outlines : 
+                                                                 ##-outlines- : 
                                                                  
 1. definition of shock
 2. types of shock
